@@ -1,0 +1,5 @@
+Credentials cache: API:2BB5DF54-C17E-474E-82B6-CA000CFBEFBD
+        Principal: aremiki@42.FR
+
+  Issued                Expires               Principal
+Jun 29 11:21:36 2020  Jul  6 11:21:28 2020  krbtgt/42.FR@42.FR
